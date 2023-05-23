@@ -18,7 +18,27 @@ function init() {
         {message:'What is the Description', 
         name:'description',
         type:'input',        
-        }
+        },
+        {message:'What are the table of contents', 
+        name:'tableofcontents',
+        type:'input',        
+        },
+        {message:'What are the installation instructions', 
+        name:'installation',
+        type:'input',        
+        },
+        {message:'What is the usage information', 
+        name:'usage',
+        type:'input',        
+        },
+        {message:'What are the contribution guidelines', 
+        name:'contribution',
+        type:'input',        
+        },
+        {message:'What are the test instructions', 
+        name:'instructions',
+        type:'input',        
+        },
     ]) .then(function(data){
         console.log(data)
         const string= generateMarkdown(data)
