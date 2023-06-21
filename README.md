@@ -17,3 +17,7 @@
 ## Acknowledgements
 
 - Inquirer.js - A powerful Node.js library for creating interactive command-line interfaces.
+
+## Video Walkthrough
+
+- [Here is the link to my video walkthrough!](https://drive.google.com/file/d/1qyLQvY_UBpEYCKy_yNrR0_3kB0k3JQ6i/view)

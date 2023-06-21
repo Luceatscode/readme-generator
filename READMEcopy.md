@@ -1,6 +1,6 @@
-# 1
+# ReadMe Generator
 ## Description
-2
+This is a command line application that generates a ReadMe file for you
 ## Table of Contents
 - [Installation Instructions](#installation-instructions)
 - [Usage Information](#usage-information)
@@ -9,18 +9,18 @@
 - [License](#license)
 - [Questions](#questions)
 ## Installation Instructions
-4
+npm i for inquierer
 ## Usage Information
-5
+na
 ## Contribution Guidelines
-6
+Equal participation
 ## Test Instructions
-7
+node index.js
 ## License
-8
+MIT
 ## Questions
 You can send me an email or look up my GitHub username if you have additional questions!
 
-9
+lucsw92@hotmail.com
 
-0
+Luceatscode
