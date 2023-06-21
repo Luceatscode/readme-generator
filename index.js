@@ -39,6 +39,18 @@ function init() {
         name:'instructions',
         type:'input',        
         },
+        {message:'What is the license you want', 
+        name:'license',
+        type:'input',        
+        },
+        {message:'What is your email', 
+        name:'email',
+        type:'input',        
+        },
+        {message:'What is your GitHub username', 
+        name:'github',
+        type:'input',        
+        },
     ]) .then(function(data){
         console.log(data)
         const string= generateMarkdown(data)
